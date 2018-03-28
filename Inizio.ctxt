@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Inizio
+comment1.params=arg
+comment1.target=void\ main(java.lang.String[])
+comment2.params=nomeArrivatoComeParametro
+comment2.target=void\ creaBottone(java.lang.String)
+numComments=3
